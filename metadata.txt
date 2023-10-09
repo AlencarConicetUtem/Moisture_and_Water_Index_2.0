@@ -12,8 +12,8 @@ email=lab.suelos@utem.cl
 
 about=Este complemento calcula el índice NDWI con las imágenes del Landsat 8, las cuales pueden ser ingresadas sin la corrección atmosférica (radiancia y reflectancia (TOA)), ya que la aplicación puede corregirlas, de lo contrario solo se realizará el cálculo del índice. Los métodos utilizados para el cálculo son Xu, Gao y McFeeters.
 
-tracker=https://github.com/AlencarConicetUtem/Moisture_and_Water_Index/issues
-repository=https://github.com/AlencarConicetUtem/Moisture_and_Water_Index
+tracker=https://github.com/AlencarConicetUtem/Moisture_and_Water_Index_2.0/issues
+repository=https://github.com/AlencarConicetUtem/Moisture_and_Water_Index_2.0
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=https://www.linkedin.com/in/keyla-alencar-da-silva-b05a67142
+homepage=https://github.com/AlencarConicetUtem/Moisture_and_Water_Index_2.0
 category=Plugins
 icon=icon.png
 # experimental flag
